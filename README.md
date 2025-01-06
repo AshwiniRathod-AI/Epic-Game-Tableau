@@ -35,6 +35,18 @@ In our case study, we have a dataset with the name "Video_Games" that serves as 
 
 •	**User_Score**: The aggregated score or rating given by users or gamers to the game.
 
+
+
+
+**Objective**: Analyzed the "Video_Games" dataset to extract insights for strategic decision-making at Epic Games.
+
+**Key Focus Areas**:
+Identified popular games and dominant genres based on sales figures across different regions (NA, EU, JP, Other).
+Explored the correlation between critical acclaim (Critic_Score) and commercial success (Global_Sales).
+Assessed platform-specific performance and publisher contributions.
+
+**Outcome**: Provided actionable insights through data visualization, enabling Epic Games to enhance user engagement and optimize market strategies.
+
 •	**User_Count**: The number of users or gamers who provided ratings for the game.
 
 •	**Developer**: The "Developer" column specifies the company or individual responsible for developing each game. It highlights the diverse range of developers and their contributions to the gaming industry.
