@@ -38,6 +38,12 @@ In our case study, we have a dataset with the name "Video_Games" that serves as 
 
 
 
+
+
+
+
+
+
 **Objective**: Analyzed the "Video_Games" dataset to extract insights for strategic decision-making at Epic Games.
 
 **Key Focus Areas**:
